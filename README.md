@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 <hr />
 
-
+<h3>My Github Statistics</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cilginsinek&show_icons=true&theme=tokyonight&locale=en" alt="cilginsinek" /></p>
 
-
+<hr />
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/348248269786316803)](https://discord.com/users/348248269786316803)
