@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cilginsinek&show_icons=true&locale=en" alt="cilginsinek" /></p>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/348248269786316803)](https://discord.com/users/348248269786316803)
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=348248269786316803)
 
 
 <p align="left"> <a href="https://twitter.com/cilginsinek" target="blank"><img src="https://img.shields.io/twitter/follow/cilginsinek?logo=twitter&style=for-the-badge" alt="cilginsinek" /></a>  <img src="https://komarev.com/ghpvc/?username=cilginsinek&label=Profile%20views&color=0e75b6&style=flat" alt="cilginsinek" /> </p>
