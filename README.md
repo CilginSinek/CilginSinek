@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <hr />
 
-
+<h3>What I do</h3>
 [![Discord Presence](https://lanyard.cnrad.dev/api/348248269786316803)](https://discord.com/users/348248269786316803)
 
 
