@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <h3 align="right">My Github Statistics</h3>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cilginsinek&show_icons=true&theme=tokyonight&locale=en" alt="cilginsinek" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cilginsinek&show_icons=true&theme=tokyonight&locale=en" alt="cilginsinek" /></p>
 
 <hr />
 
