@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://hosti.com.tr/images/icons/Django.png" alt="django" width="40" height="40"></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"></a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_gopher_favicon.svg/2048px-Go_gopher_favicon.svg.png" alt="go" width="40" height="40" /></a> 
 </p>
 
