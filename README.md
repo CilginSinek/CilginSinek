@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <p align="right">
 <a href="https://www.hackerrank.com/cilginsinek58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cilginsinek58" height="30" width="40" /></a>
 <a href="https://discord.com/users/348248269786316803" target="blank"><img align="center" src="https://raw.githubusercontent.com/CilginSinek/HTML-Patika/master/%C4%B0mages/discord-icon.png" alt="cilginsinek58" height="40" width="40" /></a>
-<a href="https://steamcommunity.com/id/CilginSinek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CilginSinek/HTML-Patika/master/%C4%B0mages/Steam_icon_logo.png" alt="AzginSinek" height="30" width"40" /></a>
 <a href="mailto:IsmailHanD@proton.me" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="cilginsinek58" height="30" width="40" /></a>
 
 
